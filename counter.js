@@ -23,7 +23,7 @@ $(document).ready(function () {
       }, {
         duration: 2000,                     /* 時間 */
         step: (now) => {                       /* 步驟 */
-          $("#test").text(math.floor(now));             /* 文字(步驟)去小數點 math.floor() */
+          $("#test").text(Math.floor(now));             /* 文字(步驟)去小數點 Math.floor() */
         }
       })
     }
