@@ -7,7 +7,7 @@
 請先 CDN jQuery
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 計數器 CDN
-<script src="https://github.com/KID421/Web_HC_TC_Counter/blob/master/counter.js"></script>>
+<script src="https://github.com/a26232933/6-28-WEB-COUNTER/blob/master/counter.js"></script>>
 參數說明
 data-counter-number="數字"
 
